@@ -24,14 +24,9 @@
 <img width="28" src="https://cdn.simpleicons.org/minutemailer/"/>
 </div>
 
-
-## Deployment
-### This app is deployed on: [https://rentify-harshpx.vercel.app/](https://rentify-harshpx.vercel.app/)
-
 ## To run locally
 1. Clone Project:
     ```
-    git clone https://github.com/harshpx/Rentify.git
     cd Rentify
     ```
 2. Client setup:
